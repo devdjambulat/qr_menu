@@ -1,3 +1,3 @@
-BOT_TOKEN = "ТВОЙ_ТОКЕН_ЗДЕСЬ"
-ADMIN_IDS = [123456789]  # сюда твой Telegram ID
+BOT_TOKEN = "8261613695:AAHDpiCiGaxjghXwHRT-xPC960SZfhOYsKg"
+ADMIN_IDS = [8240413089]  # сюда твой Telegram ID
 DB_PATH = "database.db"
